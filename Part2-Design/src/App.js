@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { Button, ButtonGroup } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
